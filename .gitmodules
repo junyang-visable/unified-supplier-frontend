@@ -1,3 +1,18 @@
 [submodule "product-editor-frontend"]
 	path = product-editor-frontend
 	url = https://github.com/visable-dev/product-editor-frontend
+[submodule "supplier-onboarding-frontend"]
+	path = supplier-onboarding-frontend
+	url = https://github.com/visable-dev/supplier-onboarding-frontend
+[submodule "business-insights-frontend"]
+	path = business-insights-frontend
+	url = https://github.com/visable-dev/business-insights-frontend
+[submodule "user-frontend"]
+	path = user-frontend
+	url = https://github.com/visable-dev/user-frontend
+[submodule "customer-dashboard-frontend"]
+	path = customer-dashboard-frontend
+	url = https://github.com/visable-dev/customer-dashboard-frontend
+[submodule "visitors-frontend"]
+	path = visitors-frontend
+	url = https://github.com/visable-dev/visitors-frontend
